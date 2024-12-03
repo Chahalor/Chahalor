@@ -24,7 +24,7 @@ i m a student at 42 mulhouse
 ### Some Scripts
  - 🦜 **Parrot Invasion** : ```bash <(curl https://chahalor.github.io/parrot/)```
  - 🥷🏻 **Shadow TIG** : ```bash <(curl https://chahalor.github.io/tig/)```
- - ・・・ **More to Come**
+ - **More to Come**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chahalor&icon=0&color=0)](https://visitcount.itsvg.in)
