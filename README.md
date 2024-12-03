@@ -31,19 +31,19 @@ Here are some of the projects I am working on:
 
 ## Contact links ⛓️
 
-- ![Logo Portfolio](/logo/web%20logo.jpg)[My Portfolio](https://chahalor.github.io)
-- ![Logo Discord](/logo/logo%20discord.png)[Discord](discord.com/users/chahalor)
-- ![Logo Github](/logo/logo%20github.png)[Github](https://github.com/Chahalor)
+- ![Logo Portfolio](/logo/web.ico)[My Portfolio](https://chahalor.github.io)
+- ![Logo Discord](/logo/Discord.ico)[Discord](discord.com/users/chahalor)
+- ![Logo Github](/logo/github.ico)[Github](https://github.com/Chahalor)
 
 ## Languages and Tools
 
 - **Languages**: 🗣️
-	- ![C logo](/logo/logo%20C.svg)
-	- ![Python logo](/logo/logo%20python.png)
-	- ![Shell logo](/logo/logo%20shell.png)
+	- ![C logo](/logo/C.ico)
+	- ![Python logo](/logo/python.ico)
+	- ![Shell logo](/logo/bash.ico)
 
 - **Tools**:
-	- ![Git logo](/logo/logo%20git.png)
+	- ![Git logo](/logo/git.ico)
 
 ## Additional Information
 
