@@ -23,7 +23,7 @@ Here are some of the projects I am working on:
 2. 🏦 **Flipper** - A Maket Flipper for [Albion Online](https://albiononline.com/home) using [AODP](https://www.albion-online-data.com/)
 3. 📁 **Inside** - A script that encrypte a file using any file other file as a key
 
-## All My Script
+## Some Of My Script
 
 - 🦜	[Parrot Invasion](https://github.com/Chahalor/parrot-invasion) :	```bash <(curl https://chahalor.github.io/parrot/)```
 - 🙅	[SHADOW TIG](https://github.com/Chahalor/TIG) :						```bash <(curl https://chahalor.github.io/tig/)```
