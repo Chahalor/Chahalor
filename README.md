@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects
+## Projects 💻
 
 Here are some of the projects I am working on:
 
@@ -29,7 +29,7 @@ Here are some of the projects I am working on:
 - [SHADOW TIG](https://chahalor.github.io//tig)
 - [More To Come](https://github.com/Chahalor?tab=repositories)
 
-## Contact links
+## Contact links ⛓️
 
 - [My Portfolio](https://chahalor.github.io)
 - [Discord](discord.com/users/chahalor)
@@ -37,7 +37,7 @@ Here are some of the projects I am working on:
 
 ## Languages and Tools
 
-- **Languages**: 
+- **Languages**: 🗣️
 	- C
 	- Python
 	- Shell
