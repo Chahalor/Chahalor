@@ -1,35 +1,24 @@
-## HEllo there 👋
+# 💫 About Me:
+i m a student at 42 mulhouse
 
-## Projects 💻
 
-Here are some of the projects I am working on:
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Chahalor) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23332185) 
 
-1. ![]() **Solar** - More to come
-2. 🏦 **Flipper** - A Maket Flipper for [Albion Online](https://albiononline.com/home) using [AODP](https://www.albion-online-data.com/)
-3. 📁 **Inside** - A script that encrypte a file using any file other file as a key
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chahalor&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chahalor&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahalor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Some Of My Script
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🦜	[Parrot Invasion](https://github.com/Chahalor/parrot-invasion) :	```bash <(curl https://chahalor.github.io/parrot/)```
-- 🙅	[SHADOW TIG](https://github.com/Chahalor/TIG) :						```bash <(curl https://chahalor.github.io/tig/)```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chahalor&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Contact links ⛓️
+---
+[![](https://visitcount.itsvg.in/api?id=chahalor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ![Logo Portfolio](/icon/web.ico) [My Portfolio](https://chahalor.github.io)
-- ![Logo Discord](/icon/Discord.ico) [Discord](discord.com/users/chahalor)
-- ![Logo Github](/icon/github.ico) [Github](https://github.com/Chahalor)
-- ![Logo Mail](/icon/mail.ico) [Mail](example@example.com)
-
-## Languages and Tools
-
-- **Languages**: 🗣️
-	- ![C logo](/icon/C.ico) C
-	- ![Python logo](/icon/python.ico) Python
-	- ![Shell logo](/icon/bash.ico) Shell
-
-- **Tools**:
-	- ![Git logo](/icon/git.ico) Git
-
-## Additional Information
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
