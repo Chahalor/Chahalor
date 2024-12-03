@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEllo there 👋
 
 <!--
 **Chahalor/Chahalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,15 +25,15 @@ Here are some of the projects I am working on:
 
 ## All My Script
 
-- 🦜 [Parrot Invasion](https://chahalor.github.io//parrot)
-- 🧑‍🏭 [SHADOW TIG](https://chahalor.github.io//tig)
+- 🦜 [Parrot Invasion](https://chahalor.github.io//parrot)	bash <(curl https://chahalor.github.io/parrot)
+- 🧑‍🏭 [SHADOW TIG](https://chahalor.github.io//tig)	bash <(curl https://chahalor.github.io/tig)
 - [More To Come](https://github.com/Chahalor?tab=repositories)
 
 ## Contact links ⛓️
 
-- ![Logo Portfolio](/logo/web.ico)[My Portfolio](https://chahalor.github.io)
-- ![Logo Discord](/logo/Discord.ico)[Discord](discord.com/users/chahalor)
-- ![Logo Github](/logo/github.ico)[Github](https://github.com/Chahalor)
+- ![Logo Portfolio](/logo/web.ico) [My Portfolio](https://chahalor.github.io)
+- ![Logo Discord](/logo/Discord.ico) [Discord](discord.com/users/chahalor)
+- ![Logo Github](/logo/github.ico) [Github](https://github.com/Chahalor)
 
 ## Languages and Tools
 
