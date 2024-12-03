@@ -1,6 +1,6 @@
 # 💫 About Me:
-i m a student at 42 mulhouse
-
+ - i'm a student at 42 mulhouse
+ - ![Static Badge](https://img.shields.io/badge/hey)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Chahalor)
