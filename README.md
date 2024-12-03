@@ -1,7 +1,5 @@
 # 💫 About Me:
- - i'm a student at 42 mulhouse
- - [![42 School](https://img.shields.io/badge/42School-%23121011.svg?logo=42&logoColor=white)](https://42.fr)
- <!-- - [![42 School](https://img.shields.io/badge/hey?logo=42)](https://www.42mulhouse.fr/en/) -->
+ - i'm a student at [![42 School](https://img.shields.io/badge/42_Mulhouse-%23121011.svg?logo=42&logoColor=white)](https://42.fr)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Chahalor)
