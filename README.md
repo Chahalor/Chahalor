@@ -27,6 +27,7 @@ Here are some of the projects I am working on:
 
 - 🦜 [Parrot Invasion](https://chahalor.github.io//parrot)	bash <(curl https://chahalor.github.io/parrot)
 - 🧑‍🏭 [SHADOW TIG](https://chahalor.github.io//tig)	bash <(curl https://chahalor.github.io/tig)
+- 🧑‍💻 [Code Snippet](https://chahalor.github.io//snippet) `bash <(curl https://chahalor.github.io/snippet)`
 - [More To Come](https://github.com/Chahalor?tab=repositories)
 
 ## Contact links ⛓️
