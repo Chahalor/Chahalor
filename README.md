@@ -25,10 +25,14 @@ Here are some of the projects I am working on:
 
 ## All My Script
 
-- 🦜 [Parrot Invasion](https://chahalor.github.io//parrot)	bash <(curl https://chahalor.github.io/parrot)
-- 🧑‍🏭 [SHADOW TIG](https://chahalor.github.io//tig)	bash <(curl https://chahalor.github.io/tig)
-- 🧑‍💻 [Code Snippet](https://chahalor.github.io//snippet) `bash <(curl https://chahalor.github.io/snippet)`
-- [More To Come](https://github.com/Chahalor?tab=repositories)
+- 🦜 [Parrot Invasion](https://github.com/Chahalor/parrot-invasion) : 
+	```
+	bash <(curl https://chahalor.github.io/parrot/)
+	```
+- [SHADOW TIG](https://github.com/Chahalor/TIG) : 
+	```
+	bash <(curl https://chahalor.github.io/tig/)
+	```
 
 ## Contact links ⛓️
 
