@@ -38,12 +38,12 @@ Here are some of the projects I am working on:
 ## Languages and Tools
 
 - **Languages**: 🗣️
-	- ![C logo](/logo/C.ico)
-	- ![Python logo](/logo/python.ico)
-	- ![Shell logo](/logo/bash.ico)
+	- ![C logo](/logo/C.ico) C
+	- ![Python logo](/logo/python.ico) Python
+	- ![Shell logo](/logo/bash.ico) Shell
 
 - **Tools**:
-	- ![Git logo](/logo/git.ico)
+	- ![Git logo](/logo/git.ico) Git
 
 ## Additional Information
 
