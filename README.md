@@ -26,23 +26,24 @@ Here are some of the projects I am working on:
 ## All My Script
 
 - 🦜	[Parrot Invasion](https://github.com/Chahalor/parrot-invasion) :	```bash <(curl https://chahalor.github.io/parrot/)```
--	[SHADOW TIG](https://github.com/Chahalor/TIG) :						```bash <(curl https://chahalor.github.io/tig/)```
+- 🙅	[SHADOW TIG](https://github.com/Chahalor/TIG) :						```bash <(curl https://chahalor.github.io/tig/)```
 
 ## Contact links ⛓️
 
-- ![Logo Portfolio](/logo/web.ico) [My Portfolio](https://chahalor.github.io)
-- ![Logo Discord](/logo/Discord.ico) [Discord](discord.com/users/chahalor)
-- ![Logo Github](/logo/github.ico) [Github](https://github.com/Chahalor)
+- ![Logo Portfolio](/icon/web.ico) [My Portfolio](https://chahalor.github.io)
+- ![Logo Discord](/icon/Discord.ico) [Discord](discord.com/users/chahalor)
+- ![Logo Github](/icon/github.ico) [Github](https://github.com/Chahalor)
+- ![Logo Mail](/icon/mail.ico) [Mail](example@example.com)
 
 ## Languages and Tools
 
 - **Languages**: 🗣️
-	- ![C logo](/logo/C.ico) C
-	- ![Python logo](/logo/python.ico) Python
-	- ![Shell logo](/logo/bash.ico) Shell
+	- ![C logo](/icon/C.ico) C
+	- ![Python logo](/icon/python.ico) Python
+	- ![Shell logo](/icon/bash.ico) Shell
 
 - **Tools**:
-	- ![Git logo](/logo/git.ico) Git
+	- ![Git logo](/icon/git.ico) Git
 
 ## Additional Information
 
