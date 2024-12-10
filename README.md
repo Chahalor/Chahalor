@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahalor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Quote
- - **Si tu a un doute goute.**
+> **Si tu a un doute goute.**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chahalor&limit=5&theme=dark&combine_all_yearly_contributions=true)
